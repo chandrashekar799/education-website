@@ -73,10 +73,41 @@ Simply open `index.html` in your browser.
 
 ---
 
-## 📸 Screenshots  
-(Add screenshots here if you want — `![Screenshot](images/screenshot.png)`)
+## 📸 Screenshots 
+## 🖼️ Outputs
 
----
+Here are the screenshots of different pages from the Education Website:
+
+<p align="center">
+  <b>🏠 Home Page</b><br>
+  <img src="assets/home.png" width="80%">
+</p>
+
+<p align="center">
+  <b>ℹ️ About Us Page</b><br>
+  <img src="assets/about-us.png" width="80%">
+</p>
+
+<p align="center">
+  <b>📚 Courses Page</b><br>
+  <img src="assets/courses.png" width="80%">
+</p>
+
+<p align="center">
+  <b>📞 Contact Us Page</b><br>
+  <img src="assets/contact-us.png" width="80%">
+</p>
+
+<p align="center">
+  <b>🔑 Login & Register Page</b><br>
+  <img src="assets/login-register.png" width="80%">
+</p>
+
+<p align="center">
+  <b>👩‍🏫 Teachers Page</b><br>
+  <img src="assets/teachers.png" width="80%">
+</p>
+
 
 ## 🤝 Contributing  
 Contributions are welcome! Feel free to open issues or submit pull requests.
