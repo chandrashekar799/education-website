@@ -74,39 +74,25 @@ Simply open `index.html` in your browser.
 ---
 
 ## 📸 Screenshots 
-## 🖼️ Outputs
+## 📸 Project Screenshots
 
-Here are the screenshots of different pages from the Education Website:
+### 🏠 Home
+![Home Page](assets/home.png)
 
-<p align="center">
-  <b>🏠 Home Page</b><br>
-  <img src="assets/home.png" width="80%">
-</p>
+### ℹ️ About Us
+![About Us](assets/about%20us.png)
 
-<p align="center">
-  <b>ℹ️ About Us Page</b><br>
-  <img src="assets/about-us.png" width="80%">
-</p>
+### 📚 Courses
+![Courses](assets/courses.png)
 
-<p align="center">
-  <b>📚 Courses Page</b><br>
-  <img src="assets/courses.png" width="80%">
-</p>
+### 📞 Contact Us
+![Contact Us](assets/contact%20us.png)
 
-<p align="center">
-  <b>📞 Contact Us Page</b><br>
-  <img src="assets/contact-us.png" width="80%">
-</p>
+### 🔑 Login & Register
+![Login & Register](assets/login%26register.png)
 
-<p align="center">
-  <b>🔑 Login & Register Page</b><br>
-  <img src="assets/login-register.png" width="80%">
-</p>
-
-<p align="center">
-  <b>👩‍🏫 Teachers Page</b><br>
-  <img src="assets/teachers.png" width="80%">
-</p>
+### 👩‍🏫 Teachers
+![Teachers](assets/teachers.png)
 
 
 ## 🤝 Contributing  
